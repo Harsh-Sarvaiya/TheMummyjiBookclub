@@ -1,0 +1,11 @@
+div{
+    color : white;
+}
+
+.alert-text {
+    color:red;
+} /* class selector */
+
+#title{
+    background-color: red;
+}/* ID selectors */
